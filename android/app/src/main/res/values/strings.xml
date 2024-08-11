@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Elias on Nigeria Tax law</string>
+    <string name="title_activity_main">Elias on Nigeria Tax law</string>
+    <string name="package_name">com.eliastax.nba</string>
+    <string name="custom_url_scheme">com.eliastax.nba</string>
+</resources>
